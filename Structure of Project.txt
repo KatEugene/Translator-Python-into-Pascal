@@ -1,0 +1,17 @@
+Structure of Project "Translator Python into Pascal"
+|====================================================================================|
+|    Name of File      ||   Type   ||             Functions in Project               |
+|------------------------------------------------------------------------------------|
+| Structure of Project || txt file || Describe the structure of the project          |
+|------------------------------------------------------------------------------------|
+|     Base of Data     || txt file || Contains data for translating Python           |
+|                      ||          || cycles, functions, data structures,            |
+|                      ||          || algorithms and the like into pascal            |                        
+|------------------------------------------------------------------------------------|
+|        Main          || py file  || Contains main code of Project, which           |
+|					   ||          || links all other parts of the project           |
+|------------------------------------------------------------------------------------|
+|         UI           || UI File  || Contains the graphic component of the project  |
+|------------------------------------------------------------------------------------|
+|       Status         || txt file || Contains real status of project                |
+|------------------------------------------------------------------------------------|
